@@ -1,6 +1,6 @@
 # LAB03-Modulation-of-VSI
 This lab shows you how to implement the most important modulation techniques for VSI. 
-Before watching this video , you must study theoretical background of modulation. 
+Before watching this video , you must study theoretical background of modulation [Lecture03](https://github.com/IEE3311-EDP-ERRI/LECTURE03-Modulations/blob/main/README.md). 
 
 * You can see the video of the lab [here](https://youtu.be/xgzw15f0U_Q)
 * Simulation Unipolar, Bipolar and block operatoin H-Bridge [Plecs file](https://github.com/IEE3311-EDP-ERRI/LAB03-Modulation-of-VSI/blob/main/4_FullBridge_SPWM_Unipolar_Bipolar.plecs)<br>
