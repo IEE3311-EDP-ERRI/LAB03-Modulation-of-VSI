@@ -7,4 +7,3 @@ Before watching this video , you must study theoretical background of modulation
 * Simulation: control of single-phase AC signal using unipolar PWM and PR discrete control [Plecs File](https://github.com/IEE3311-EDP-ERRI/LAB03-Modulation-of-VSI/blob/main/5_FullBridge_LC_Control.plecs)<br>
 * Simulation of SPWM, THI-PWM and SVM for 2L-VSI using plecs library [Plecs File](https://github.com/IEE3311-EDP-ERRI/LAB03-Modulation-of-VSI/blob/main/6_2LVL_SPWM_SVPWM.plecs)<br>
 * Simulation of SVM in C code implementation for 2L-VSI [Plecs File](https://github.com/IEE3311-EDP-ERRI/LAB03-Modulation-of-VSI/blob/main/7_SWM_2L_C_Code.plecs)
-* 
